@@ -29,15 +29,15 @@ public class Machine extends Model {
    public java.util.Collection<TypeMachine> typeMachine;
    /** @pdRoleInfo migr=no name=Component assc=association14 coll=java.util.Collection impl=java.util.HashSet mult=0..* type=Aggregation */
    public java.util.Collection<Component> components;
-   /** @pdRoleInfo migr=no name=Room assc=association10 mult=1..1 side=A */
+
    public Room room;
    
-   /** @pdOid bc70eb90-6234-44ef-9c4a-64604649fcca */
+   
    public void displayWarranty() {
       // TODO: implement
    }
    
-   /** @pdOid ea3cd3ab-fe5d-4659-94b9-18175ef3b299 */
+  
    public void modifyComponent() {
       // TODO: implement
    }
