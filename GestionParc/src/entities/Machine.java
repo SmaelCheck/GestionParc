@@ -14,9 +14,9 @@ public class Machine extends Model {
    private int id;
    
    private String number;
-   /** @pdOid fc72823b-5f35-420c-8f0f-fe21e6bc33e0 */
+  
    private String name;
-   /** @pdOid 1a04d03a-6b25-4238-831d-0443790a478f */
+   
    private java.util.Date purchasedate;
    /** @pdOid f81eb5a2-dc5d-4405-8663-f3b9c97c0a59 */
    private int warranty;
