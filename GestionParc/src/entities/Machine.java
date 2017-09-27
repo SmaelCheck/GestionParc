@@ -20,9 +20,9 @@ public class Machine extends Model {
    private java.util.Date purchasedate;
    
    private int warranty;
-   /** @pdOid 3c21420b-1103-4551-8d4f-a774e0f1fb12 */
+   
    private String ipmac;
-   /** @pdOid 48ce7950-c308-45c5-9f8f-49998dfada1f */
+  
    private String os;
    
    /** @pdRoleInfo migr=no name=TypeMachine assc=association5 coll=java.util.Collection impl=java.util.HashSet mult=0..* type=Composition */
