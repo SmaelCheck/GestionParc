@@ -8,11 +8,11 @@ package entities;
 
 import java.util.*;
 
-/** @pdOid e4494494-9895-4e83-9ec8-b145af171915 */
+
 public class Machine extends Model {
-   /** @pdOid 736a465c-5afa-414e-a0ae-7056cddafd42 */
+   
    private int id;
-   /** @pdOid 9af12050-a113-4b91-8522-d13cfdd32593 */
+   
    private String number;
    /** @pdOid fc72823b-5f35-420c-8f0f-fe21e6bc33e0 */
    private String name;
